@@ -11,7 +11,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import java.time.Duration;
 
 public class FacebookTest {
-
     private WebDriver driver;
     private StringBuilder errors = new StringBuilder();
     JavascriptExecutor js;
